@@ -1,17 +1,23 @@
 # Firebase
 <img src='http://funkyimg.com/i/2uS4i.png' align='right'>
 
-Firebase gem is a wrapper for the Firebase Rest API
-Firebase is a mobile and web development platform. Purchased by Google in 2014.
+Firebase gem is a wrapper for the Firebase Rest API.
+
+Firebase is a mobile and web development platform. Purchased by Google in 2014 and several acquisition have been integrated into the platform.
+
+_Unified App Platform_ - back-end as a service
 
 ## Benefits:
 * “Build apps fast without managing infrastructure”
+* Feature sets save the developer from having to write
+
+
 * Feature testing w/ a segment of your user base,
 * Easy secure signin  
 * Test and roll out new app features 
 * Follow users across devices.
 * Personalization
-* Nifty UE features like welcomes sms on registration, thumbnail engines
+* UE features like welcomes sms on registration, thumbnail engines
 * Realtime chat.
 
 * Supports Android/iOS/Web/C++/Unity
@@ -25,8 +31,7 @@ Firebase is a mobile and web development platform. Purchased by Google in 2014.
 ### Dev
 * User Auth through email/google/facebook/twitter/github. 
 * SMS verification. 
-* Just released Phone Authentication
-
+* Just released Phone Authentication - sign in with phone number
 
 * Full onboarding including registration / log in templates.
 
