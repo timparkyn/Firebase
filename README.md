@@ -41,6 +41,7 @@ _Unified App Platform_ - back-end as a service
 
 * App hosting
 * Cloud storage
+
 * Device testing lab
 * Crash reporting
 * Remote config to override defaults on certain devices
