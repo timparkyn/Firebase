@@ -5,20 +5,22 @@ Firebase gem is a wrapper for the Firebase Rest API
 Firebase is a mobile and web development platform. Purchased by Google in 2014.
 
 ## Benefits:
-  “Build apps fast without managing infrastructure”
-  Feature testing w/ a segment of your user base, 
-  Easy secure signin  
-  Easily roll out new app features. 
-  Follow users across devices.
-  Nifty UE features like welcomes sms on registration, thumbnail engines
-   Realtime chat.
+* “Build apps fast without managing infrastructure”
+* Feature testing w/ a segment of your user base,
+* Easy secure signin  
+* Test and roll out new app features 
+* Follow users across devices.
+* Personalization
+* Nifty UE features like welcomes sms on registration, thumbnail engines
+* Realtime chat.
 
-Supports Android/iOS/Web/C++/Unity
+* Supports Android/iOS/Web/C++/Unity
 
 
 
 ## Major Features:
-<img scr='http://funkyimg.com/i/2uS4z.png' align='right'>
+<img src='http://funkyimg.com/i/2uS4G.png' align='right'>
+
 
 ### Dev
 * User Auth through email/google/facebook/twitter/github. 
@@ -42,12 +44,18 @@ Supports Android/iOS/Web/C++/Unity
 
 ### Marketing 
 * Integration into Adwords and Admob
+
 * User invite feature
+
 * Indexing for Google Search and ad targeting 
+
 * Cloud messaging
+
 * Audience performance monitoring
+
 * Behavioral ad targeting
+
 * Third party payment system
 
 
-Initial level is free and provides almost all features — perfect for phase 3  projects. Paid plans start at $25/mo.
+Initial level is free
